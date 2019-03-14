@@ -1,2 +1,2 @@
-//= hello_world.js
-//= doesn_nothing.js
+//= require hello_world
+//= require doesn_nothing
